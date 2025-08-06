@@ -1540,7 +1540,6 @@ main{
     
     .questions .QandA div {
         padding: 15px 0;
-        flex-direction: column;
         gap: 10px;
         align-items: flex-start;
         min-height: 60px;
@@ -1606,7 +1605,9 @@ main{
         left: auto;
         top: auto;
         padding: 15px;
+        padding-bottom: 50px;
         font-size: 12px;
+
     }
 }
 
